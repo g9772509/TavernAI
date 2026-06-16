@@ -1,5 +1,7 @@
 # TavernAI
 ### TavernAI is an atmospheric frontend for chat and storywriting, compatible with many backends!
+This is legacy repository. TavernAI 2 is available here [https://github.com/TavernAI/TavernAI](https://github.com/TavernAI/TavernAI)
+
 **Screenshots:**
 <br><img src="readme/1.png" height="200" />
 
